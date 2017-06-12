@@ -2,7 +2,7 @@
 
 Opeta koneesi keskustelemaan -artikkelin (Mikrobitti 06/2017, Juuso Mikkonen & Niko Nummi) kolmannen esimerkkisovelluksen ohjelmakoodi. 
 
-Lisää aiheesta verkossa osoitteessa [www.mikrobitti.fi/?p=11280](www.mikrobitti.fi/?p=11280).
+Lisää aiheesta verkossa osoitteessa [www.mikrobitti.fi/?p=11280](http://www.mikrobitti.fi/?p=11280).
 
 ## Vaatimukset
 
